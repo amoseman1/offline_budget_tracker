@@ -17,7 +17,7 @@ npm i - to install dependencies, and npm start - to connect to the server
 ## Usage
 
 <img src="public/budget.png"> <br>
-[Video showing the functionality of the offline transactions being successful](https://drive.google.com/file/d/1SJVl3ZaCzfeIULL9n4cnOsCCQe0NNPyz/view)
+<br>[Video showing the functionality of the offline transactions being successful](https://drive.google.com/file/d/1SJVl3ZaCzfeIULL9n4cnOsCCQe0NNPyz/view)
 
 ## Liscense
 
@@ -26,7 +26,7 @@ For more information about the liscense chosen, follow the link below:
 
 ## Contributing
 
-Amy Moseman -
+Amy Moseman - <br>
 NodeJs <br>
 Express <br>
 Mongoose <br>
